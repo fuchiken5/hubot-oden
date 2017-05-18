@@ -15,4 +15,4 @@
 #   fuchiken5 <fuchiken5@gmail.com>
 module.exports = (robot) ->
   robot.respond /おでん/, (msg) ->
-    msg.send '─□○△'
+    msg.send '─□○△-'
